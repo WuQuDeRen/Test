@@ -1,0 +1,8 @@
+diff a/Wu/src/org/temp/Test.java b/Wu/src/org/temp/Test.java	(rejected hunks)
+@@ -4,6 +4,5 @@
+ 
+ public class Test {
+    private String name;
+-   private Integer age;
+    private Date date;
+ }
